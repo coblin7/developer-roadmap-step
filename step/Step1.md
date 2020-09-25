@@ -17,6 +17,6 @@
 
 > 인터넷은 인프라이며, 웹은 그 인프라 기반 위에 구축된 서비스이다. 웹 뿐만 아니라 인터넷 위에 구축된 다른 서비스들도 존재한다.
 
-> ###### [인터넷 기초 이해영상(5분)](https://www.youtube.com/watch?v=7_LPdttKXPc)
+###### [인터넷 기초 이해영상(5분)](https://www.youtube.com/watch?v=7_LPdttKXPc)
 ###### [참고페이지1](http://isukorea.com/blog/home/tlavotl1/198)
 ###### [참고페이지2](https://developer.mozilla.org/ko/docs/Learn/Common_questions/How_does_the_Internet_work)
