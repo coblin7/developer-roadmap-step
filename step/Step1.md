@@ -1,6 +1,7 @@
 # 인터넷은 어떻게 작동 될까요?
 
-#### [1. 인터넷과 웹의 차이](#인터넷과-웹의-차이)
+#### [1. 인터넷과 웹의 차이](#1.-인터넷과-웹의-차이)
+#### [2. 네트워크](#2.-네트워크)
 
 ![internet](/img/internet.gif)
 
@@ -24,3 +25,7 @@
 ###### [인터넷 기초 이해영상(5분)](https://www.youtube.com/watch?v=7_LPdttKXPc)
 ###### [참고페이지1](http://isukorea.com/blog/home/tlavotl1/198)
 ###### [참고페이지2](https://developer.mozilla.org/ko/docs/Learn/Common_questions/How_does_the_Internet_work)
+
+---
+
+## 2. 네트워크
