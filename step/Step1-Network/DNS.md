@@ -8,7 +8,7 @@ DNS는 사람들에게는 쉽게 기억될 수 있게 도입되었으나, 왜 IP
 문자는 byte의 크기가 IP주소보다 크기 때문에 라우터에 과부하를 주어 처리를 지연되게 한다.
 
 # DNS와 Resolver
-DNS 또한 IP주소를 조회하기 위해 DNS 서버에 접근해야 하는데, DNS 클라이언트는 Resovler라고 한다. <br/>
+DNS는 IP주소를 조회하기 위해 DNS 서버에 접근해야 하는데, DNS 클라이언트는 Resovler라고 한다. <br/>
 DNS 원리를 사용해 IP주소를 조회하는 것은 Name Resolution이라고 한다. <br/>
 Resolver는 이 Resolution을 실행한다. <br/>
 Resolver는 OS의 Socket 라이브러리에 포함되어 있다. Socket라이브러리는 네트워크 기능을 호출하기 네트워크용 표준 라이브러리이다. <br/>
